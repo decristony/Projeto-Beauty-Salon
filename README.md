@@ -1,10 +1,10 @@
 # Projeto-Beauty-Salon
 Projeto Front end Para um salao de Beleza
 
-## Preview do projeto
+# Preview do projeto
 
-### Projeto salao conta com verçoes para desktop e mobile
-### Totalmente responsivo ajusta a tela deacordo com o size do dispositivo
+ Projeto salao conta com verçoes para desktop e mobile
+ Totalmente responsivo ajusta a tela deacordo com o size do dispositivo
 
 ## Preview Desktop
 
