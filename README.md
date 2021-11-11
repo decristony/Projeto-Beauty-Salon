@@ -5,7 +5,7 @@ https://decristony.github.io/Projeto-Beauty-Salon/
 # Preview do projeto
 
  Projeto salao conta com verçoes para desktop e mobile
- Totalmente responsivo ajusta a tela deacordo com o size do dispositivo
+ Totalmente responsivo 
 
 ## Preview Desktop
 
